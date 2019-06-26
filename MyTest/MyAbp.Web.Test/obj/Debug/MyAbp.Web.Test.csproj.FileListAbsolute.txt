@@ -47,10 +47,12 @@ D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\roslyn\vbc.exe.config
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\roslyn\vbc.rsp
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\roslyn\VBCSCompiler.exe
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\roslyn\VBCSCompiler.exe.config
-D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\MyAbp.Web.Mvc.dll
-D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\MyAbp.Web.Mvc.pdb
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\obj\Debug\MyAbp.Web.Test.csprojAssemblyReference.cache
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\obj\Debug\MyAbp.Web.Test.csproj.CoreCompileInputs.cache
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\obj\Debug\MyAbp.Web.Test.csproj.CopyComplete
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\obj\Debug\MyAbp.Web.Test.dll
 D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\obj\Debug\MyAbp.Web.Test.pdb
+D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\MyAbp.Web.dll
+D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\MyAbp.Web.pdb
+D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\MyAbp.Web.Mvc.dll
+D:\AbpAnalyse\MyAbp\MyTest\MyAbp.Web.Test\bin\MyAbp.Web.Mvc.pdb

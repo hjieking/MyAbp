@@ -16,6 +16,7 @@ namespace MyAbp.Web.Mvc.Web.Mvc
 
         public void Init(HttpApplication application)
         {
+            //注册NET 管道第七个事件
             application.PostResolveRequestCache += Application_PostResolveRequestCache;
         }
 

@@ -45,5 +45,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Web\AbpWebApplication.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyAbp.Web.Mvc\MyAbp.Web.Mvc.csproj">
+      <Project>{767b0867-3b21-4adc-ba70-f27797210ced}</Project>
+      <Name>MyAbp.Web.Mvc</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

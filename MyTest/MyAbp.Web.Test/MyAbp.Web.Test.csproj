@@ -51,9 +51,13 @@
     <Reference Include="System.Web.Services" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -69,6 +73,10 @@
     <ProjectReference Include="..\..\MyAspnetBoilerplate\MyAbp.Web.Mvc\MyAbp.Web.Mvc.csproj">
       <Project>{767b0867-3b21-4adc-ba70-f27797210ced}</Project>
       <Name>MyAbp.Web.Mvc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MyAspnetBoilerplate\MyAbp.Web\MyAbp.Web.csproj">
+      <Project>{819ccc7b-41cb-43a2-b471-8aa4b5bbfcc6}</Project>
+      <Name>MyAbp.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
